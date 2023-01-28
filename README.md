@@ -7,8 +7,9 @@
 3. Run the project with a Pycharm IDE.
 
 ## What I have learned: 
-1. 
-2. 
+1. How to hold a list of names within Python.
+2. Generate the size of that list.
+3. Practice coding with Python coding structure.
 
 ## Sceenshot:
 <img src= "Capture.PNG" width="400">
