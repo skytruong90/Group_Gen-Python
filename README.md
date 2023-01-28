@@ -12,4 +12,4 @@
 
 ## Sceenshot:
 
-<img src= "Capture.PNG" width="700">
+<img src= "Capture.PNG" width="400">
