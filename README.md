@@ -1,5 +1,5 @@
 # Title: Group Generator Project
-### This is a python program that can be used to generate groups of people after inputting the names of all the people grouping up.
+### This is a simple python program that can be used to generate groups of people after inputting all user's names.
 
 ## Here's how to use the program:
 
